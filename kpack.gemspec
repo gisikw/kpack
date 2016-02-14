@@ -5,7 +5,7 @@ require 'kpack/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "kpack"
-  spec.version       = Kpack::VERSION
+  spec.version       = KPack::VERSION
   spec.authors       = ["Kevin Gisi"]
   spec.email         = ["kevin@kevingisi.com"]
 

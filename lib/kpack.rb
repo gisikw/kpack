@@ -1,5 +1,5 @@
 require "kpack/version"
 
-module Kpack
+module KPack
   # Your code goes here...
 end
