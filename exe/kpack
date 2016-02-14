@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "kpack/cli"
+KPack::CLI.start(ARGV.dup)
